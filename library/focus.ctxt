@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fe
+comment0.target=void\ focusGained(java.awt.event.FocusEvent)
+comment1.params=fe
+comment1.target=void\ focusLost(java.awt.event.FocusEvent)
+numComments=2

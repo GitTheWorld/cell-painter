@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=pos(int,\ int)
+comment1.params=
+comment1.target=int\ x()
+comment2.params=x
+comment2.target=int\ x(int)
+comment3.params=
+comment3.target=int\ y()
+comment4.params=y
+comment4.target=int\ y(int)
+comment5.params=x\ y
+comment5.target=boolean\ equals(int,\ int)
+comment6.params=position
+comment6.target=boolean\ equals(pos)
+numComments=7

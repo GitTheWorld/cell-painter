@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=TicTacToa()
+comment2.params=
+comment2.target=void\ your_code()
+comment3.params=number
+comment3.target=void\ runTurn(int)
+comment4.params=number
+comment4.target=boolean\ isEnd(int)
+comment5.params=number\ x\ y
+comment5.target=void\ setForPlayer(int,\ int,\ int)
+comment6.params=number\ position
+comment6.target=void\ setForPlayer(int,\ library.pos)
+comment7.params=number\ x\ y
+comment7.target=boolean\ isForPlayer(int,\ int,\ int)
+comment8.params=number\ position
+comment8.target=boolean\ isForPlayer(int,\ library.pos)
+numComments=9
